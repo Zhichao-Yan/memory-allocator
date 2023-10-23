@@ -4,6 +4,7 @@
 #include <pthread.h>
 #include <stdio.h>
 #include <errno.h>
+#include <string.h>
 typedef char ALIGN[16];
 
 union header{
