@@ -2,7 +2,7 @@
  * @Author: yan yzc53@icloud.com
  * @Date: 2023-10-22 13:51:09
  * @LastEditors: yan yzc53@icloud.com
- * @LastEditTime: 2023-10-24 14:07:04
+ * @LastEditTime: 2023-10-24 14:12:16
  * @FilePath: /memory-allocator/README.md
  * @Description: Readme.md
  * @QQ: 1594047159@qq.com
@@ -15,8 +15,9 @@ memory-allocator is a very simple memory allocator
 
 ------------------
 ### What is in it
-* `myallocator.h`
-* `myallocator.c`
+* `myallocator.h` header file
+* `myallocator.c` source file
+* `main.c` test file
 
 ------------------
 ### What does it implement
